@@ -28,3 +28,14 @@ In adddition to this I want to be part of good developing command and participat
 * Sass
 * BEM
 * Photoshop/Figma/Sketch
+
+
+## Code examples
+- [HTML/CSS template for ilikeservice.ru](https://github.com/parnasmi/ils)
+- [HTML/CSS template for Surkhon hotel](https://github.com/parnasmi/Surkhan-Hotel)
+- [Movie search react app for learning](https://github.com/parnasmi/Vidly)
+- [Trello clone react app for learning](https://github.com/parnasmi/trello-clone)
+- [Simple React Typescript starter in Parcel](https://github.com/parnasmi/Parcel-TS-React-Bundler)
+- [React app started to learn firebase just for fun](https://github.com/parnasmi/serviceChatApp)
+
+	
