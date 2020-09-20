@@ -1,0 +1,36 @@
+.wrapper {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.name {
+	display: flex;
+	align-items: flex-start;
+}
+
+.name__text {
+	margin-right: 20px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.name__img {
+	width: 200px;
+	height: 200px;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+.name__img img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.page-footer {
+	border-top: 1px solid #ccc;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+a:hover {
+	text-decoration: none;
+}
